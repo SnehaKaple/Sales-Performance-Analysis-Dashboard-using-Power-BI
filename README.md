@@ -51,14 +51,14 @@ Below are snapshots of the PowerBI dashboard (for quick viewing).
 ![Problem Statement](https://github.com/SnehaKaple/Sales-Performance-Analysis-Dashboard-using-Power-BI/blob/main/Sales%20Projuct%20Requirement.pdf)
 
 ### Sales Report (Datasets) 
-![Dimension Tables] 
+[Dimension Tables] 
 ![Product](https://github.com/SnehaKaple/Sales-Performance-Analysis-Dashboard-using-Power-BI/blob/main/Product.csv)
 ![Category](https://github.com/SnehaKaple/Sales-Performance-Analysis-Dashboard-using-Power-BI/blob/main/Categories.xlsx)
 ![Subcategory](https://github.com/SnehaKaple/Sales-Performance-Analysis-Dashboard-using-Power-BI/blob/main/SubCategories.xlsx)
 ![SaleRep](https://github.com/SnehaKaple/Sales-Performance-Analysis-Dashboard-using-Power-BI/blob/main/SalesRep.xlsx)
 ![Geography](https://github.com/SnehaKaple/Sales-Performance-Analysis-Dashboard-using-Power-BI/blob/main/Geography.xlsx) 
 
-![Fact Tables] 
+[Fact Tables] 
 ![Sales2014](https://github.com/SnehaKaple/Sales-Performance-Analysis-Dashboard-using-Power-BI/blob/main/sales%202014.csv) 
 ![Sales2015](https://github.com/SnehaKaple/Sales-Performance-Analysis-Dashboard-using-Power-BI/blob/main/sales%202015.csv) 
 ![Sales2016](https://github.com/SnehaKaple/Sales-Performance-Analysis-Dashboard-using-Power-BI/blob/main/sales%202016.csv) 
@@ -70,7 +70,7 @@ This Power BI dashboard helps the company monitor sales performance, analyze pro
 
 
 ##  Author
-**(Sneha Kaple)**  
+**Sneha Kaple**  
 B.Tech in Artificial Intelligence | Data Analytics Enthusiast  
 [LinkedIn](https://www.linkedin.com/in/sneha-kaple-analytics/) | [GitHub](https://github.com/SnehaKaple) 
 
