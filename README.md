@@ -3,42 +3,27 @@ An interactive Power BI dashboard designed to analyze sales performance, track K
 
 
 ## Project Objectives
-
--Provide an interactive dashboard to monitor Total Revenue, Gross Profit, and Units Sold.
-
--Identify top-performing products, categories, and subcategories driving sales.
-
--Highlight top sales representatives contributing to company performance.
-
--Analyze sales trends across years and months for better forecasting.
-
--Support management in making data-driven decisions.
+- Provide an interactive dashboard to monitor Total Revenue, Gross Profit, and Units Sold.
+- Identify top-performing products, categories, and subcategories driving sales.
+- Highlight top sales representatives contributing to company performance.
+- Analyze sales trends across years and months for better forecasting.
+- Support management in making data-driven decisions.
 
 
 ## Key Features of the Dashboard
-
- -KPI Cards: Total Revenue, Gross Profit, Units Sold.
- 
- -Revenue breakdown by Category & SubCategory.
- 
- -Top 5 Sales Representatives performance.
- 
- -Product-wise and Year-wise revenue trends.
- 
- -Waterfall chart for increase/decrease analysis.
- 
- -Interactive slicers (Year, Month, Country).
+ - KPI Cards: Total Revenue, Gross Profit, Units Sold.
+ - Revenue breakdown by Category & SubCategory.
+ - Top 5 Sales Representatives performance.
+ - Product-wise and Year-wise revenue trends.
+ - Waterfall chart for increase/decrease analysis.
+ - Interactive slicers (Year, Month, Country).
 
 
  ## Tools & Technologies Used
- 
--Power BI → Data Visualization & Dashboard Development
-
--Power Query → Data Cleaning & Transformation
-
--DAX (Data Analysis Expressions) → Measure & KPI Calculations
-
--Excel/CSV → Data Source
+- Power BI → Data Visualization & Dashboard Development
+- Power Query → Data Cleaning & Transformation
+- DAX (Data Analysis Expressions) → Measure & KPI Calculations
+- Excel/CSV → Data Source
 
 
 ##  Dashboard Preview
